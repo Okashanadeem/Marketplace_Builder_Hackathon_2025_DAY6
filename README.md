@@ -84,8 +84,8 @@ You can view the live version of the marketplace in both the staging and product
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+For more detailed information about Hackathon 3, you can visit my GIAIC repository, where I have organized and documented all activities related to the event in a structured manner. Feel free to explore the repo here: [GIAIC Repo by Okasha Nadeem](https://github.com/Okashanadeem/GIAIC/tree/main/Quarter%202/Hackathons/Hackathon%2003%20(Sanity%20%26%20mokeApi)).
+
 
 ---
 
